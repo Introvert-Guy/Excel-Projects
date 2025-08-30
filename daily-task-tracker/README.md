@@ -21,5 +21,5 @@ Daily Task Tracker.xlsx
 ┗ Sheet1 (Tasks Data)
 
 ## ✨ Author
-👤 Your Name  
+Arindam Santra 
 🔗 GitHub: [Introvert-Guy](https://github.com/Introvert-Guy)  
