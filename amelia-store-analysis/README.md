@@ -32,6 +32,6 @@ Amelia's Store Data Analysis.xlsx
 ┗ Amelia Store (dataset)
 
 ## ✨ Author
-👤 Your Name  
+Arindam Santra  
 🔗 GitHub: [Introvert-Guy](https://github.com/Introvert-Guy)  
 
